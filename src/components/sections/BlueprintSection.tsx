@@ -48,7 +48,7 @@ export function BlueprintSection() {
               </h2>
 
               <p className="reveal reveal-delay-2 text-surface-variant text-lg mb-10 max-w-md font-body">
-                Follow the path of the top 1% performers. We've decoded the
+                Follow the path of the top 1% performers. We&apos;ve decoded the
                 startup genome — every decision tree, every pivot signal, every
                 growth lever.
               </p>
