@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
 import { StatBlock } from "@/components/ui/StatBlock";
 import { HERO_STATS } from "@/lib/data";
-import { HeroPaperBall } from "@/components/ui/heropaperball";
+// import { HeroPaperBall } from "@/components/ui/heropaperball";
 import Link from "next/link";
 
 export function HeroSection() {
@@ -22,7 +22,7 @@ export function HeroSection() {
 
   return (
     <>
-     <HeroPaperBall />
+     {/* <HeroPaperBall /> */}
     <header
       ref={sectionRef}
       className="relative min-h-screen flex items-center overflow-hidden"
